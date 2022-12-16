@@ -482,7 +482,7 @@ namespace WindowsPortFormsApp1
             // 
             // btnClearOutData
             // 
-            this.btnClearOutData.Location = new System.Drawing.Point(7, 21);
+            this.btnClearOutData.Location = new System.Drawing.Point(9, 21);
             this.btnClearOutData.Name = "btnClearOutData";
             this.btnClearOutData.Size = new System.Drawing.Size(85, 52);
             this.btnClearOutData.TabIndex = 4;
@@ -494,7 +494,7 @@ namespace WindowsPortFormsApp1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(825, 327);
+            this.ClientSize = new System.Drawing.Size(828, 327);
             this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox2);
