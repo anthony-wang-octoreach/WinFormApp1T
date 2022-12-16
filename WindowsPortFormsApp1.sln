@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsPortFormsApp1", "WindowsPortFormsApp1\WindowsPortFormsApp1.csproj", "{9B8764A2-0749-4548-A2BE-06E3FA54EE0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8764A2-0749-4548-A2BE-06E3FA54EE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8764A2-0749-4548-A2BE-06E3FA54EE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8764A2-0749-4548-A2BE-06E3FA54EE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8764A2-0749-4548-A2BE-06E3FA54EE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6324556-1DD0-4CAB-86FB-7A2F378A687D}
+	EndGlobalSection
+EndGlobal

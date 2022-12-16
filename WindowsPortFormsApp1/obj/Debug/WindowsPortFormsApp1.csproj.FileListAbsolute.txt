@@ -1,0 +1,10 @@
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\bin\Debug\WindowsPortFormsApp1.exe.config
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\bin\Debug\WindowsPortFormsApp1.exe
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\bin\Debug\WindowsPortFormsApp1.pdb
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\obj\Debug\WindowsPortFormsApp1.csproj.AssemblyReference.cache
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\obj\Debug\WindowsPortFormsApp1.Form1.resources
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\obj\Debug\WindowsPortFormsApp1.Properties.Resources.resources
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\obj\Debug\WindowsPortFormsApp1.csproj.GenerateResource.cache
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\obj\Debug\WindowsPortFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\obj\Debug\WindowsPortFormsApp1.exe
+C:\Users\anthony\source\repos\WindowsPortFormsApp1\WindowsPortFormsApp1\obj\Debug\WindowsPortFormsApp1.pdb
